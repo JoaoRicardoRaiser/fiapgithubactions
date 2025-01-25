@@ -47,4 +47,5 @@ jobs:
         with:
           # List of tags
           tags: 'joaoraiser12/fiapgithubactions:latest'
+          push: true
                 
